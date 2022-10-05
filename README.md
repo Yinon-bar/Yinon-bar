@@ -1,6 +1,6 @@
-# Hi I'm Yinon Bar a Full-Stack Developer 👋
+# Hi, I'm Yinon Bar a Full-Stack WEB Developer 👋
 
-### Hi I'm Yinon Bar a Full-Stack Developer 👋
+### My Passion is to make UI/UX simple as passible
 
 <!--
 **Yinon-bar/Yinon-bar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
