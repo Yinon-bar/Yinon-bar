@@ -43,10 +43,10 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
 </p>
 
-<h3 align="left">Tools:</h3>
+<!-- <h3 align="left">Tools:</h3>
 <p align="left"> 
  
-</p>
+</p> -->
 
 <br>
 <h3 align="left">Achievements:</h3>
