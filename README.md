@@ -87,4 +87,5 @@
 
 <br>
 <h3 align="left">Achievements:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinon-bar" alt="yinon-bar" /></a> </p>
+
+<p align="left"> [![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy) <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=yinon-bar" alt="yinon-bar" /></a> </p>
