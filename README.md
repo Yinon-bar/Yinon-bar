@@ -21,7 +21,7 @@
 </p>
 
 <h3 align="left">My portfolio here:</h3>
-<a href="https://yinon-bar.netlify.app/" target="blank"><img align="center" src="https://www.netlify.com/v3/img/components/logomark.png" alt="yinon bar" height="30" width="40" /></a>
+<a href="https://yinon-bar.netlify.app/" target="blank"><img align="center" src="https://www.netlify.com/v3/img/components/logomark.png" alt="yinon bar" width="40" /></a>
 
 <br>
 <br>
