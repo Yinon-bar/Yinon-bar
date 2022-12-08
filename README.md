@@ -8,7 +8,7 @@
 - 💻 My passion is to make UX/UI simple as possible! 
 - 📈 I’m currently working on **A React project for crypto currency App**
 - 👯 I’m looking to collaborate **on Web applications** 
-- fhgfghkj
+- fhgfghkjkjl.kjp.86
 <br/>
 
 
