@@ -28,7 +28,6 @@
 
 <br>
 <br>
-<br>
 
 <h2 align="left">Languages & Libraries:</h2>
 <br>
