@@ -6,10 +6,9 @@
  </p>
 
 - 💻 My passion is to make UX/UI as simple as possible! 
-- 📈 I’m currently working on **A React project for crypto currency App**
+- 📈 I’m currently working on **A React project for cryptocurrency App**
 - 👯 I’m looking to collaborate **on Web applications** 
 <br/>
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left" width="5">
